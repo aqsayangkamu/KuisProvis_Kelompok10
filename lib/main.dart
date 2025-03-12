@@ -54,7 +54,7 @@ class kuisScreen extends StatelessWidget {
                     Text(
                       "Kuis Provis Kelompok 9",
                       style: TextStyle(
-                        fontSize: 18, // Atur ukuran font
+                        fontSize: 17, // Atur ukuran font
                         fontWeight: FontWeight.bold, // Membuat teks menjadi bold
                       ),
                     ),
