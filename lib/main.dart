@@ -54,8 +54,20 @@ class kuisScreen extends StatelessWidget {
                     Text(
                       "Kuis Provis Kelompok 10",
                       style: TextStyle(
-                        fontSize: 17, // Atur ukuran font
+                        fontSize: 30, // Atur ukuran font
                         fontWeight: FontWeight.bold, // Membuat teks menjadi bold
+                      ),
+                    ),
+                    Text(
+                      "Muhammad Ruby Pradana Syamsun (2304191)",
+                      style: TextStyle(
+                        fontSize: 16, // Atur ukuran font
+                      ),
+                    ),
+                    Text(
+                      "Dessi Husna Isnaini (2310974)",
+                      style: TextStyle(
+                        fontSize: 16,
                       ),
                     ),
                     SizedBox(height: 16),
