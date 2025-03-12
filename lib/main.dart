@@ -52,7 +52,7 @@ class kuisScreen extends StatelessWidget {
                   crossAxisAlignment: CrossAxisAlignment.center, // Memusatkan secara horizontal
                   children: [
                     Text(
-                      "Kuis Provis Kelompok 9",
+                      "Kuis Provis Kelompok 10",
                       style: TextStyle(
                         fontSize: 17, // Atur ukuran font
                         fontWeight: FontWeight.bold, // Membuat teks menjadi bold
